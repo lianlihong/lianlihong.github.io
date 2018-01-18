@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 科怀伊，莱昂纳德</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on 科怀伊，莱昂纳德</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lambentem</title>
+      <link>/categories/lambentem/</link>
+      <pubDate>Fri, 11 Nov 2016 11:27:27 -0400</pubDate>
+      
+      <guid>/categories/lambentem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem</title>
+      <link>/categories/lorem/</link>
+      <pubDate>Fri, 11 Nov 2016 11:27:27 -0400</pubDate>
+      
+      <guid>/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 科怀伊，莱昂纳德</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on 科怀伊，莱昂纳德</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Nov 2016 11:27:27 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ipsum</title>
+      <link>/tags/ipsum/</link>
+      <pubDate>Sat, 12 Nov 2016 11:27:27 -0400</pubDate>
+      
+      <guid>/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambentem</title>
+      <link>/tags/lambentem/</link>
+      <pubDate>Fri, 11 Nov 2016 11:27:27 -0400</pubDate>
+      
+      <guid>/tags/lambentem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorem</title>
+      <link>/tags/lorem/</link>
+      <pubDate>Fri, 11 Nov 2016 11:27:27 -0400</pubDate>
+      
+      <guid>/tags/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trabes</title>
+      <link>/tags/trabes/</link>
+      <pubDate>Sat, 12 Nov 2016 11:27:27 -0400</pubDate>
+      
+      <guid>/tags/trabes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
